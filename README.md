@@ -1,5 +1,4 @@
 
-```markdown
 # Laravel User Management System
 
 A simple CRUD (Create, Read, Update, Delete) application built with Laravel for managing users. This project demonstrates basic user management functionality implemented during training at Pascalia Asia Vietnam.
@@ -121,4 +120,4 @@ This is a training project and is not currently accepting contributions.
 ## License
 
 © 2025 Khamko. All rights reserved.
-```
+
