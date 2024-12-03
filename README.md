@@ -25,11 +25,11 @@ A simple CRUD (Create, Read, Update, Delete) application built with Laravel for 
 
 1. Clone the repository:
 ```sh
-git clone <....>
+git clone https://github.com/khamko07/CRUD_System.git
 ```
 
     ```sh
-    cd 
+    cd CRUD_System
     ```
 
 2. Install PHP dependencies:
@@ -107,7 +107,7 @@ Access the application at `http://localhost:8000` and navigate to the User Manag
 
  ## Screenshots
 ![Home Page](screenshots/home.jpg)
-![View list of users](screenshots/home.jpg)
+![View list of users](screenshots/)
 ![Create new users](screenshots/Create%20new%20users.jpg)
 ![Delete users](screenshots/Delete%20users.jpg)
 ![Edit existing users](screenshots/Edit%20existing%20users.jpg)
