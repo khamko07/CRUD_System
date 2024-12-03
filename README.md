@@ -107,7 +107,7 @@ Access the application at `http://localhost:8000` and navigate to the User Manag
 
  ## Screenshots
 ![Home Page](screenshots/home.jpg)
-![View list of users](screenshots/)
+![View list of users](screenshots/View%20list%20of%20users.jpg)
 ![Create new users](screenshots/Create%20new%20users.jpg)
 ![Delete users](screenshots/Delete%20users.jpg)
 ![Edit existing users](screenshots/Edit%20existing%20users.jpg)
